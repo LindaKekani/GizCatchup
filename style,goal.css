@@ -1,0 +1,41 @@
+body {
+    background-color:rgb(174, 174, 174);
+   
+    }
+    
+    
+    h1 {
+    color: rgb(1, 0, 0);
+    font-size:xx-large;
+    text-align: center;
+
+    
+    }
+    
+   img.a {
+
+    border-radius: 5px;
+    margin-left: auto;
+    width: 300px;
+
+   } 
+    
+   img.b {
+    border-radius: 10px;
+    margin-left: auto;
+    width: 300px;
+
+
+   }
+    
+
+        
+    div {
+     position:absolute;
+     left: 150px;
+     width: 220px;
+     height: 100px;
+     border: 3px rgb(255, 0, 0);
+    
+    }
+    
